@@ -1,0 +1,5 @@
+*.o
+apc
+*.exe
+*.out
+core
